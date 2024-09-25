@@ -1,3 +1,8 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliveiraps&show_icons=true&theme=dracula)
+
+
+
+
 - 👋 Olá, sou @Oliveiraps
 - 👀 Estou interessado em "Aprender mais"
 - 🌱 Atualmente estou aprendendo "Programação Web"
