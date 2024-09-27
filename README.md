@@ -7,7 +7,7 @@
 
 - 👋 Olá, sou @Oliveiraps
 - 👀 Estou interessado em "Aprender mais"
-- 🌱 Atualmente estou aprendendo "Programação Web"
+- 🌱 Desenvolvedor "Full Stack em formação"
 - 💞️ Procuro colaborar em "Em algo que possa ajudar uma ou mais pessoas"
 - 📫 Como entrar em contato comigo "ismaelsodev@gmail.com"
 - 😄 Pronomes: "alguns!!!"
