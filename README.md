@@ -1,4 +1,9 @@
-### Olá
+
+<br clear="both">
+
+<h2 align="left">Sobre Mim</h2>
+
+###
 
 - 👋 Olá, sou @Oliveiraps
 - 👀 Estou interessado em "Aprender mais"
@@ -11,14 +16,11 @@
 Oliveiraps/Oliveiraps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <br clear="both">
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -34,24 +36,29 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
 </div>
 
-### Detalhes
+<br clear="both">
+
+<h2 align="left">Detalhes</h2>
+
+###
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Oliveiraps&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ismael Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiraps&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliveiraps&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiraps&compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br clear="both">
 
+<h2 align="left">Projetos</h2>
 
-### Projetos
+###
 
 
 <br clear="both">
 
 <h2 align="left">Social</h2>
-
-
-
 
 ###
 
