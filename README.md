@@ -40,7 +40,9 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">Inteligência Artificial e Bots</h2>
 <div align="center">
-https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+  
+<img https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white />
+
 </div>
   
 ###
