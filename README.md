@@ -38,10 +38,16 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
+<br clear="both">
+
+<h2 align="left">Inteligencia Artificial e Bots</h2>
+
 <div align="center"
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 </div>
+
 ###
+
 <br clear="both">
 
 <h2 align="left">Detalhes</h2>
